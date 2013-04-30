@@ -1,4 +1,4 @@
 SimpleJavaWebApp
 ================
 
-I wanted to publish my profile in the simple web app
+I wanted to just say "Hi"
