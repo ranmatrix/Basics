@@ -1,4 +1,4 @@
-SimpleJavaWebApp
-================
+Basics
+======
 
-I wanted to just say "Hi"
+This repository will contain some basic java apps
